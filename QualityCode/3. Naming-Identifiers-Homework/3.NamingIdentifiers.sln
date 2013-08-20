@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBoolPrinter_Exercise1", "NamingIdentifiersExercise1\ConsoleBoolPrinter_Exercise1.csproj", "{B105B330-5F03-49ED-812C-206EC1FA5F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRefactoring_Exercise2", "PersonRefactoring_Exercise2\PersonRefactoring_Exercise2.csproj", "{8403162A-13F5-4611-A780-F01EBA757BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptRefactor_Exercise3", "JavaScriptRefactor_Exercise3\JavaScriptRefactor_Exercise3.csproj", "{A5472672-A579-4AD6-90E0-FE8D9F21C839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMinesweeper_Exercise4", "Minesweeper\ConsoleMinesweeper_Exercise4.csproj", "{B20E8DFD-5F12-4358-849D-1F25806E9052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B105B330-5F03-49ED-812C-206EC1FA5F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B105B330-5F03-49ED-812C-206EC1FA5F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B105B330-5F03-49ED-812C-206EC1FA5F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B105B330-5F03-49ED-812C-206EC1FA5F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8403162A-13F5-4611-A780-F01EBA757BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8403162A-13F5-4611-A780-F01EBA757BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8403162A-13F5-4611-A780-F01EBA757BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8403162A-13F5-4611-A780-F01EBA757BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5472672-A579-4AD6-90E0-FE8D9F21C839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5472672-A579-4AD6-90E0-FE8D9F21C839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5472672-A579-4AD6-90E0-FE8D9F21C839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5472672-A579-4AD6-90E0-FE8D9F21C839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E8DFD-5F12-4358-849D-1F25806E9052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

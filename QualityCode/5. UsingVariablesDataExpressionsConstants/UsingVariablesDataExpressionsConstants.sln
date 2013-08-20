@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SizeClass_Exercise1", "SizeClass_Exercise1\SizeClass_Exercise1.csproj", "{2C28812C-B512-4DC2-95EB-A8C284C78C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintStatistics_Exercise2", "PrintStatistics_Exercise2\PrintStatistics_Exercise2.csproj", "{1C1BFFD9-F232-4157-B21A-AC7361F2433D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C28812C-B512-4DC2-95EB-A8C284C78C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C28812C-B512-4DC2-95EB-A8C284C78C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C28812C-B512-4DC2-95EB-A8C284C78C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C28812C-B512-4DC2-95EB-A8C284C78C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1BFFD9-F232-4157-B21A-AC7361F2433D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1BFFD9-F232-4157-B21A-AC7361F2433D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1BFFD9-F232-4157-B21A-AC7361F2433D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1BFFD9-F232-4157-B21A-AC7361F2433D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
