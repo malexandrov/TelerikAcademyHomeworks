@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPreparation", "ExamPreparation\ExamPreparation.csproj", "{79A9BDF3-E19C-4145-AB32-11C7B0C2E59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{6E995271-45EF-4FEA-94CA-073EC34F2D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossword", "Crossword\Crossword.csproj", "{D1513450-33D8-40C6-92CE-BDEE818AB649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A9BDF3-E19C-4145-AB32-11C7B0C2E59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A9BDF3-E19C-4145-AB32-11C7B0C2E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A9BDF3-E19C-4145-AB32-11C7B0C2E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A9BDF3-E19C-4145-AB32-11C7B0C2E59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E995271-45EF-4FEA-94CA-073EC34F2D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E995271-45EF-4FEA-94CA-073EC34F2D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E995271-45EF-4FEA-94CA-073EC34F2D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E995271-45EF-4FEA-94CA-073EC34F2D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1513450-33D8-40C6-92CE-BDEE818AB649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1513450-33D8-40C6-92CE-BDEE818AB649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1513450-33D8-40C6-92CE-BDEE818AB649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1513450-33D8-40C6-92CE-BDEE818AB649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

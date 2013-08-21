@@ -1,0 +1,42 @@
+Zagorka;1.10;Zagorka AD;82098098
+Zagorka 2l;2.30;Zagorka AD;82198098
+Zagorka Gold;1.2;Zagorka AD;82090312
+Zagorka Fusion;1.20;Zagorka AD;82198098
+Zagorka Rezerva;1.5;Zagorka AD;82092312
+Kamenitza;1.05;Kamenitza AD;21301230
+Kamenitza Fresh Grapefruit;1.15;Kamenitza AD;21301123
+Kamenitza Fresh Slivi;1.35;Kamenitza AD;21123120
+Kamenitza Fresh Limon;1.2;Kamenitza AD;21301230
+Kamenitza za momchence 2l;2.15;Kamenitza AD;21301123
+Kamenitza za momichence 5l;3.35;Kamenitza AD;21123120
+Shumensko;1.15;Carlsberg Sofia;12312343
+Shumensko Premium;1.35;Carlsberg Sofia;12312343
+Shumensko 2l;2.15;Carlsberg Sofia;22312343
+Shumensko s pastarma;4.35;Carlsberg Sofia;12312343
+Rakiya domashna;2.40;Bai Pesho Winery;2344232
+Rakiya domashna;2.90;Bai Tosho's maze;2341332
+Rakiya domashna;2.50;Bai Grisho's Garage;2341232
+Rakiya Peshtera ;2.40;Peshtera;2344232
+Rakiya Peshtera;2.90;Peshtera;2341332
+Rakiya Peshtera;2.50;Peshtera;2341232
+Zagorka 2;1.10;Zagorka AD;82098098
+Zagorka 2 2l;2.30;Zagorka AD;82198098
+Zagorka 2 Gold;1.2;Zagorka AD;82090312
+Zagorka 2 Fusion;1.20;Zagorka AD;82198098
+Zagorka 2 Rezerva;1.5;Zagorka AD;82092312
+Kamenitza 2;1.05;Kamenitza AD;21301230
+Kamenitza 2 Fresh Grapefruit;1.15;Kamenitza AD;21301123
+Kamenitza 2 Fresh Slivi;1.35;Kamenitza AD;21123120
+Kamenitza 2 Fresh Limon;1.05;Kamenitza AD;21301230
+Kamenitza 2 za momchence 2l;2.15;Kamenitza AD;21301123
+Kamenitza 2 za momichence 5l;3.35;Kamenitza AD;21123120
+Shumensko 2;1.15;Carlsberg Sofia;12312343
+Shumensko Premium 2;1.35;Carlsberg Sofia;12312343
+Shumensko 2 2l;2.15;Carlsberg Sofia;22312343
+Shumensko s pastarma 2;4.35;Carlsberg Sofia;12312343
+Rakiya domashna 2;1.20;Bai Pesho Winery;2344232
+Rakiya domashna 2;2.90;Bai Tosho's maze;2341332
+Rakiya domashna 2;2.50;Bai Grisho's Garage;2341232
+Rakiya Peshtera 2;1.20;Peshtera;2344232
+Rakiya Peshtera 3;2.90;Peshtera;2341332
+Rakiya Peshtera 2;2.50;Peshtera;2341232

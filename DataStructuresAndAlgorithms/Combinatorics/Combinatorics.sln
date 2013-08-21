@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPasswords", "BinaryPasswords\BinaryPasswords.csproj", "{ECD5A1E1-9334-41BB-BF45-D9134C29A306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "Salaries\Salaries.csproj", "{010242A9-1307-4A1C-B6F2-31048E8F3931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunnies", "Bunnies\Bunnies.csproj", "{C471F51D-5CD4-44AC-83FC-165526776F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD5A1E1-9334-41BB-BF45-D9134C29A306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD5A1E1-9334-41BB-BF45-D9134C29A306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD5A1E1-9334-41BB-BF45-D9134C29A306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD5A1E1-9334-41BB-BF45-D9134C29A306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010242A9-1307-4A1C-B6F2-31048E8F3931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010242A9-1307-4A1C-B6F2-31048E8F3931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010242A9-1307-4A1C-B6F2-31048E8F3931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010242A9-1307-4A1C-B6F2-31048E8F3931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C471F51D-5CD4-44AC-83FC-165526776F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C471F51D-5CD4-44AC-83FC-165526776F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C471F51D-5CD4-44AC-83FC-165526776F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C471F51D-5CD4-44AC-83FC-165526776F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
