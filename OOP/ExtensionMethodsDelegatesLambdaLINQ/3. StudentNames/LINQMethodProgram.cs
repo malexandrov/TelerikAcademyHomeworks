@@ -4,13 +4,13 @@ using System.Linq;
 
 namespace _3.StudentNames
 {
-     class Student
+    public class Student
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
     }
 
-    class LINQMethodProgram
+    public class LINQMethodProgram
     {
         static void Main(string[] args)
         {
@@ -26,8 +26,7 @@ namespace _3.StudentNames
             students[2] = tosho;
             students[3] = roro;
             students[4] = nora;
-            
-           
+
             FirstNameFirst(students);
         }
 

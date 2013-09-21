@@ -12,11 +12,13 @@ namespace _1.StringBuilderSubstring
             int inputLength = inputString.Length;
             int endIndex = startIndex + length;
 
-             if (length < 0 || startIndex < 0 || startIndex > inputLength || startIndex + length > inputLength)
+             if (length < 0 ||
+                 startIndex < 0 || 
+                 startIndex > inputLength || 
+                 startIndex + length > inputLength)
             {
                 throw new ArgumentOutOfRangeException("Index out of range!!!");
             }
-
             // If length is 0 - return string from index to the end
             else if (length == 0)
             {
@@ -25,7 +27,6 @@ namespace _1.StringBuilderSubstring
                     resultString.Append(inputString[i]);
                 }
             }
-
             else
                 for (int i = startIndex; i < endIndex; i++)
                 {

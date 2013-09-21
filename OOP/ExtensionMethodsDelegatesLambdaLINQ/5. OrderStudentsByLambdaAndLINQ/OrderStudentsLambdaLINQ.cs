@@ -29,16 +29,20 @@ namespace _5.OrderStudentsByLambdaAndLINQ
             students[3] = roro;
             students[4] = nora;
 
-            // Lambda
-            var orderedStudents = students.OrderByDescending(student => student.FirstName).ThenByDescending(student => student.LastName);
-            foreach (var student in orderedStudents)
+            var ordered =
+                from s in students
+                orderby s.FirstName , s.LastName 
+                select s;
+            //// Lambda
+            //var orderedStudents = students.OrderByDescending(student => student.FirstName).ThenByDescending(student => student.LastName);
+            foreach (var student in ordered)
             {
                 Console.WriteLine(student.FirstName + " " + student.LastName);
             }
             Console.WriteLine();
 
-            // LINQ
-            StudentOrder(students);
+            //// LINQ
+            //StudentOrder(students);
         }
 
         static void StudentOrder(Student[] students)

@@ -8,7 +8,7 @@ namespace _2.IEnumerableExtensions
     static class Extensions
     {
         // Extension for sum
-        public static T Sum<T>(this IEnumerable<T> list)
+        public static T Sum<T>(this IEnumerable<T> list) where T : IComparable
         {
             dynamic result = 0;
             foreach (var item in list)

@@ -15,8 +15,13 @@ namespace _6.NumbersDivisibleBy7and3
                 numbers[i] = i;
             }
 
-            // Lambda expression
-            var subset = numbers.Where(number => number % 21 == 0);
+            var subset =
+                from n in numbers
+                where n % 21 == 0
+                select n;
+
+            //// Lambda expression
+            //var subset = numbers.Where(number => number % 21 == 0);
 
             foreach (var num in subset)
             {
@@ -24,16 +29,16 @@ namespace _6.NumbersDivisibleBy7and3
             }
             Console.WriteLine();
 
-            // LINQ
-            var numList =
-                from number in numbers
-                where number % 21 == 0
-                select number;
+            //// LINQ
+            //var numList =
+            //    from number in numbers
+            //    where number % 21 == 0
+            //    select number;
 
-            foreach (var num in numList)
-            {
-                Console.WriteLine(num);
-            }
+            //foreach (var num in numList)
+            //{
+            //    Console.WriteLine(num);
+            //}
         }
     }
 }
